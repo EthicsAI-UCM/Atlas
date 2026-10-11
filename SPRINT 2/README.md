@@ -1,5 +1,5 @@
 # Entregables del Sprint 2
-# Entregables del Sprint 2 - Atlas
+
 
 * [Documento Principal](https://github.com/EthicsAI-UCM/Atlas/blob/main/SPRINT%202/Sprint%202%20__%20MAIN.pdf)
 * [Apéndice 1](https://github.com/EthicsAI-UCM/Atlas/blob/main/SPRINT%202/Sprint%202%20_%20Ap%C3%A9ndice%201.pdf)
