@@ -1,0 +1,16 @@
+Atlas Project - Model License
+
+The machine learning models (weights, parameters, and architecture configurations) provided in this repository are licensed under the Open Responsible AI License (OpenRAIL-M).
+
+By accessing, using, or distributing these models, you agree to the following terms:
+1. Open Access: You are granted royalty-free, worldwide, non-exclusive permission to use, copy, modify, and distribute the model.
+2. Behavioral-Use Restrictions: You CANNOT use this model to:
+   - Perform automated medical diagnoses.
+   - Profile or discriminate against individuals or collectives based on nationality, flag, race, or origin.
+   - Automate executive law enforcement decisions (e.g., automated arrests or blockades) without human supervision.
+   - Generate disinformation or spoofed maritime alerts.
+
+If you modify or redistribute the model, you must include this notice and impose these exact same restrictions on any downstream users. 
+
+For the full legal framework of OpenRAIL licenses, visit: 
+https://www.licenses.ai/
